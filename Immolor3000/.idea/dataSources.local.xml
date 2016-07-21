@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - bourse_grand_est@localhost" uuid="2cd47d17-db92-4041-bedd-22f324a774fd">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>bourse_grand_est.*</schema-pattern>
+      <default-schemas>exoPhp.*</default-schemas>
+    </data-source>
+  </component>
+</project>
